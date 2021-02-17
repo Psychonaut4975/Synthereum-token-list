@@ -1,0 +1,70 @@
+{
+    "name": "Synthereum",
+    "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/v2.0.7/snx/SNX.svg",
+    "keywords": [
+        "synthereum",
+        "defi",
+        "derivatives",
+        "synths",
+        "jsynths",
+        "synthetics",
+        "jarvis",
+        "network"
+    ],
+    "timestamp": "2021-02-17T12:34:09.910Z",
+    "tags": {
+        "synth": {
+            "name": "Synth",
+            "description": "A synthetic asset within the Synthereum protocol which can at any time be minted, redeemed, or exchanged for any other jSynths."
+        }
+    },
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+            "symbol": "JRT",
+            "name": "Jarvis Reward Token",
+            "decimals": 18,
+            "logoURI": "",
+            "tags": []
+        },
+        {
+            "chainId": 1,
+            "address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+            "symbol": "jEUR",
+            "name": "Jarvis Synthetic Euro",
+            "decimals": 18,
+            "logoURI": "",
+            "tags": [
+                "synth"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x7409856cae628f5d578b285b45669b36e7005283",
+            "symbol": "jGBP",
+            "name": "Jarvis Synthetic GBP",
+            "decimals": 18,
+            "logoURI": "",
+            "tags": [
+                "synth"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+            "symbol": "jCHF",
+            "name": "Jarvis Synthetic CHF",
+            "decimals": 18,
+            "logoURI": "",
+            "tags": [
+                "synth"
+            ]
+        }
+    ]
+}
