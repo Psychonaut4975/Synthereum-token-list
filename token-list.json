@@ -39,7 +39,7 @@
             "symbol": "jEUR",
             "name": "Jarvis Synthetic Euro",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Psychonaut4975/Synthereum-token-list/master/icons/eur-icon-light.png",
+            "logoURI": "https://raw.githubusercontent.com/Psychonaut4975/Synthereum-token-list/master/icons/optimized/eur-icon-light.png",
             "tags": [
                 "synth"
             ]
@@ -50,7 +50,7 @@
             "symbol": "jGBP",
             "name": "Jarvis Synthetic GBP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Psychonaut4975/Synthereum-token-list/master/icons/gbp-icon-light.png",
+            "logoURI": "https://raw.githubusercontent.com/Psychonaut4975/Synthereum-token-list/master/icons/optimized/gbp-icon-light.png",
             "tags": [
                 "synth"
             ]
@@ -61,7 +61,7 @@
             "symbol": "jCHF",
             "name": "Jarvis Synthetic CHF",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Psychonaut4975/Synthereum-token-list/master/icons/chf-icon-light.png",
+            "logoURI": "https://raw.githubusercontent.com/Psychonaut4975/Synthereum-token-list/master/icons/optimized/chf-icon-light.png",
             "tags": [
                 "synth"
             ]
