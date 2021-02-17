@@ -12,8 +12,6 @@ const tokenListPath = path.join(__dirname, "./token-list.json");
 const schema = JSON.parse(fs.readFileSync(schemaPath).toString());
 const tokenList = JSON.parse(fs.readFileSync(tokenListPath).toString());
 
-console.log(schema);
-
 const validate = ajv.compile(schema);
 
 const valid = validate(tokenList)
